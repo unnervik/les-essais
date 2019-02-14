@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/parsy.iml" filepath="$PROJECT_DIR$/.idea/modules/parsy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/parsy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/parsy_main.iml" group="parsy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/parsy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/parsy_test.iml" group="parsy" />
+    </modules>
+  </component>
+</project>
