@@ -18,3 +18,4 @@
 	st = status
 	p = push
 	c = commit
+	f = fetch
