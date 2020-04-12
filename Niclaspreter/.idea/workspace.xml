@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be86c602-c0d1-4f74-aa60-84bd64c0f854" name="Default" comment="" />
+    <list default="true" id="be86c602-c0d1-4f74-aa60-84bd64c0f854" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/3.1/taskArtifacts/cache.properties.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.1/taskArtifacts/cache.properties.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.1/taskArtifacts/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.1/taskArtifacts/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.1/taskArtifacts/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.1/taskArtifacts/fileSnapshots.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.1/taskArtifacts/taskArtifacts.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.1/taskArtifacts/taskArtifacts.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,12 +29,7 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Niclaspreter" type="f1a62948:ProjectNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -46,12 +47,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
   </component>
   <component name="ProjectId" id="1Z9g7Uy1iXiVCptGkSZrS4T89ob" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -60,6 +67,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -306,22 +314,26 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="453" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1584283530244" />
-    <state width="1238" height="259" key="GridCell.Tab.0.bottom" timestamp="1584363970948">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1218" height="78" key="GridCell.Tab.0.bottom" timestamp="1586702427596">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state width="1238" height="259" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1584363970948" />
-    <state width="1238" height="259" key="GridCell.Tab.0.center" timestamp="1584363970946">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1218" height="78" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1586702427596" />
+    <state width="1218" height="78" key="GridCell.Tab.0.center" timestamp="1586702427594">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state width="1238" height="259" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1584363970946" />
-    <state width="1238" height="259" key="GridCell.Tab.0.left" timestamp="1584363970945">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1218" height="78" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1586702427594" />
+    <state width="1218" height="78" key="GridCell.Tab.0.left" timestamp="1586702427593">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state width="1238" height="259" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1584363970945" />
-    <state width="1238" height="259" key="GridCell.Tab.0.right" timestamp="1584363970947">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1218" height="78" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1586702427593" />
+    <state width="1218" height="78" key="GridCell.Tab.0.right" timestamp="1586702427595">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state width="1238" height="259" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1584363970947" />
+    <state width="1218" height="78" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1586702427595" />
     <state width="1238" height="227" key="GridCell.Tab.1.bottom" timestamp="1584363970876">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -346,10 +358,11 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="347" y="0" width="585" height="744" key="refactoring.ChangeSignatureDialog/0.0.1280.800@0.0.1280.800" timestamp="1584283695767" />
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1584279790597">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="305" y="143" width="670" height="657" key="search.everywhere.popup" timestamp="1586702226394">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1584279790597" />
+    <state x="305" y="143" width="670" height="657" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1586702226394" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
