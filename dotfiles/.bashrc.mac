@@ -1,0 +1,2 @@
+#do something like "source ~/les-essais/dotfiles/.bashrc.mac" in your ~./bashrc
+alias ll='ls -lG'
