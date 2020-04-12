@@ -22,7 +22,7 @@ public class Lexer {
         this.filename = filename;
     }
 
-    public void lexFile() {
+    public ArrayList<Lexem> lexFile() {
         ArrayList<Lexem> lexems = new ArrayList<>();
         LexerStatus status = LexerStatus._UNDEFINED;
 
@@ -47,6 +47,7 @@ public class Lexer {
                 System.err.println("Lexing failed with error: " + status.name());
             }
         }
+        return lexems;
     }
 
     public LexerStatus lexLine(String line, int lineNumber, ArrayList<Lexem> lexems) {

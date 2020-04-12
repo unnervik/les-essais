@@ -1,6 +1,10 @@
 package niclaspreter;
 
+import niclaspreter.lexer.Lexem;
 import niclaspreter.lexer.Lexer;
+import niclaspreter.parser.Parser;
+
+import java.util.ArrayList;
 
 public class Main {
     public static void main(String args[]) {
@@ -13,6 +17,9 @@ public class Main {
         System.out.println("using file: " + filename);
 
         Lexer lexer = new Lexer(filename);
-        lexer.lexFile();
+        ArrayList<Lexem> lexems =  lexer.lexFile();
+
+        Parser parser = new Parser(lexems);
+
     }
 }
