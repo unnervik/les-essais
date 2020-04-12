@@ -1,4 +1,4 @@
-package niclaspreter;
+package niclaspreter.lexer;
 
 public enum LexemType {
     DIGIT,

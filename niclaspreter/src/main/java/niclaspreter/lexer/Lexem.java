@@ -1,4 +1,4 @@
-package niclaspreter;
+package niclaspreter.lexer;
 
 public class Lexem {
     LexemType type;

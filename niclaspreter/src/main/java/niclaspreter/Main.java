@@ -1,6 +1,6 @@
 package niclaspreter;
 
-import java.io.*;
+import niclaspreter.lexer.Lexer;
 
 public class Main {
     public static void main(String args[]) {

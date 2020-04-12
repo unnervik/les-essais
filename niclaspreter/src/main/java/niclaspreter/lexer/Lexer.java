@@ -1,4 +1,4 @@
-package niclaspreter;
+package niclaspreter.lexer;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
