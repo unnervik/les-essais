@@ -19,3 +19,4 @@
 	p = push
 	c = commit
 	f = fetch
+	d = diff
